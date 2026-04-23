@@ -295,19 +295,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\francisco.moll-serra\\.nuget\\packages\\": {}
+    "C:\\Users\\Francisco\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\francisco.moll-serra\\OneDrive - PlayCore\\Documents\\fams_misc\\DEVELOPMENT\\Test-Apps\\Test-App2\\TestGame\\TestGame.csproj",
+      "projectUniqueName": "D:\\Development\\Test-Apps\\Test-App2\\TestGame\\TestGame.csproj",
       "projectName": "TestGame",
-      "projectPath": "C:\\Users\\francisco.moll-serra\\OneDrive - PlayCore\\Documents\\fams_misc\\DEVELOPMENT\\Test-Apps\\Test-App2\\TestGame\\TestGame.csproj",
-      "packagesPath": "C:\\Users\\francisco.moll-serra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\francisco.moll-serra\\OneDrive - PlayCore\\Documents\\fams_misc\\DEVELOPMENT\\Test-Apps\\Test-App2\\TestGame\\obj\\",
+      "projectPath": "D:\\Development\\Test-Apps\\Test-App2\\TestGame\\TestGame.csproj",
+      "packagesPath": "C:\\Users\\Francisco\\.nuget\\packages\\",
+      "outputPath": "D:\\Development\\Test-Apps\\Test-App2\\TestGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\francisco.moll-serra\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Francisco\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
