@@ -32,3 +32,37 @@ c:\Users\francisco.moll-serra\OneDrive - PlayCore\Documents\fams_misc\DEVELOPMEN
 c:\Users\francisco.moll-serra\OneDrive - PlayCore\Documents\fams_misc\DEVELOPMENT\Test-Apps\Test-App2\TestGame\obj\Debug\net9.0\TestGame.pdb
 c:\Users\francisco.moll-serra\OneDrive - PlayCore\Documents\fams_misc\DEVELOPMENT\Test-Apps\Test-App2\TestGame\obj\Debug\net9.0\TestGame.genruntimeconfig.cache
 c:\Users\francisco.moll-serra\OneDrive - PlayCore\Documents\fams_misc\DEVELOPMENT\Test-Apps\Test-App2\TestGame\obj\Debug\net9.0\ref\TestGame.dll
+D:\Development\Test-Apps\Test-App2\TestGame\bin\Debug\net9.0\TestGame.exe
+D:\Development\Test-Apps\Test-App2\TestGame\bin\Debug\net9.0\TestGame.deps.json
+D:\Development\Test-Apps\Test-App2\TestGame\bin\Debug\net9.0\TestGame.runtimeconfig.json
+D:\Development\Test-Apps\Test-App2\TestGame\bin\Debug\net9.0\TestGame.dll
+D:\Development\Test-Apps\Test-App2\TestGame\bin\Debug\net9.0\TestGame.pdb
+D:\Development\Test-Apps\Test-App2\TestGame\bin\Debug\net9.0\MonoGame.Framework.dll
+D:\Development\Test-Apps\Test-App2\TestGame\bin\Debug\net9.0\NVorbis.dll
+D:\Development\Test-Apps\Test-App2\TestGame\bin\Debug\net9.0\runtimes\android-arm\native\libopenal.so
+D:\Development\Test-Apps\Test-App2\TestGame\bin\Debug\net9.0\runtimes\android-arm64\native\libopenal.so
+D:\Development\Test-Apps\Test-App2\TestGame\bin\Debug\net9.0\runtimes\android-x64\native\libopenal.so
+D:\Development\Test-Apps\Test-App2\TestGame\bin\Debug\net9.0\runtimes\android-x86\native\libopenal.so
+D:\Development\Test-Apps\Test-App2\TestGame\bin\Debug\net9.0\runtimes\ios-arm64\native\libopenal.a
+D:\Development\Test-Apps\Test-App2\TestGame\bin\Debug\net9.0\runtimes\iossimulator-arm64\native\libopenal.a
+D:\Development\Test-Apps\Test-App2\TestGame\bin\Debug\net9.0\runtimes\iossimulator-x64\native\libopenal.a
+D:\Development\Test-Apps\Test-App2\TestGame\bin\Debug\net9.0\runtimes\linux-arm64\native\libopenal.so
+D:\Development\Test-Apps\Test-App2\TestGame\bin\Debug\net9.0\runtimes\linux-x64\native\libopenal.so
+D:\Development\Test-Apps\Test-App2\TestGame\bin\Debug\net9.0\runtimes\osx\native\libopenal.dylib
+D:\Development\Test-Apps\Test-App2\TestGame\bin\Debug\net9.0\runtimes\win-x64\native\openal.dll
+D:\Development\Test-Apps\Test-App2\TestGame\bin\Debug\net9.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Development\Test-Apps\Test-App2\TestGame\bin\Debug\net9.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+D:\Development\Test-Apps\Test-App2\TestGame\bin\Debug\net9.0\runtimes\win-x64\native\SDL2.dll
+D:\Development\Test-Apps\Test-App2\TestGame\obj\Debug\net9.0\mgcb.tool.restore
+D:\Development\Test-Apps\Test-App2\TestGame\obj\Debug\net9.0\TestGame.csproj.AssemblyReference.cache
+D:\Development\Test-Apps\Test-App2\TestGame\obj\Debug\net9.0\TestGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Test-Apps\Test-App2\TestGame\obj\Debug\net9.0\TestGame.AssemblyInfoInputs.cache
+D:\Development\Test-Apps\Test-App2\TestGame\obj\Debug\net9.0\TestGame.AssemblyInfo.cs
+D:\Development\Test-Apps\Test-App2\TestGame\obj\Debug\net9.0\TestGame.csproj.CoreCompileInputs.cache
+D:\Development\Test-Apps\Test-App2\TestGame\obj\Debug\net9.0\TestGame.sourcelink.json
+D:\Development\Test-Apps\Test-App2\TestGame\obj\Debug\net9.0\TestGame.csproj.Up2Date
+D:\Development\Test-Apps\Test-App2\TestGame\obj\Debug\net9.0\TestGame.dll
+D:\Development\Test-Apps\Test-App2\TestGame\obj\Debug\net9.0\refint\TestGame.dll
+D:\Development\Test-Apps\Test-App2\TestGame\obj\Debug\net9.0\TestGame.pdb
+D:\Development\Test-Apps\Test-App2\TestGame\obj\Debug\net9.0\TestGame.genruntimeconfig.cache
+D:\Development\Test-Apps\Test-App2\TestGame\obj\Debug\net9.0\ref\TestGame.dll
