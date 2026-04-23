@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\francisco.moll-serra\\OneDrive - PlayCore\\Documents\\fams_misc\\DEVELOPMENT\\Test-Apps\\Test-App1\\Test-App1.csproj": {}
+    "D:\\Development\\Test-Apps\\Test-App1\\Test-App1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\francisco.moll-serra\\OneDrive - PlayCore\\Documents\\fams_misc\\DEVELOPMENT\\Test-Apps\\Test-App1\\Test-App1.csproj": {
+    "D:\\Development\\Test-Apps\\Test-App1\\Test-App1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\francisco.moll-serra\\OneDrive - PlayCore\\Documents\\fams_misc\\DEVELOPMENT\\Test-Apps\\Test-App1\\Test-App1.csproj",
+        "projectUniqueName": "D:\\Development\\Test-Apps\\Test-App1\\Test-App1.csproj",
         "projectName": "Test-App1",
-        "projectPath": "C:\\Users\\francisco.moll-serra\\OneDrive - PlayCore\\Documents\\fams_misc\\DEVELOPMENT\\Test-Apps\\Test-App1\\Test-App1.csproj",
-        "packagesPath": "C:\\Users\\francisco.moll-serra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\francisco.moll-serra\\OneDrive - PlayCore\\Documents\\fams_misc\\DEVELOPMENT\\Test-Apps\\Test-App1\\obj\\",
+        "projectPath": "D:\\Development\\Test-Apps\\Test-App1\\Test-App1.csproj",
+        "packagesPath": "C:\\Users\\Francisco\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\Test-Apps\\Test-App1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\francisco.moll-serra\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Francisco\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
