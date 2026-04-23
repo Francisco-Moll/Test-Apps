@@ -7,6 +7,9 @@ namespace TestGame;
 
 public class Game1 : Core
 {
+    // Engine Texture
+    private Texture2D _logo;
+
     public Game1() : base("Test Game", 1280, 720, false)
     {
         
@@ -23,7 +26,7 @@ public class Game1 : Core
     {
         // TODO: use this.Content to load your game content here
 
-        base.LoadContent();
+        _logo = Content.Load<Texture2D>("images/logo");
     }
 
     protected override void Update(GameTime gameTime)
@@ -40,7 +43,14 @@ public class Game1 : Core
     {
         GraphicsDevice.Clear(Color.CornflowerBlue);
 
-        // TODO: Add your drawing code here
+        // Begin sprite batch preparation for rendering.
+        SpriteBatch.Begin();
+
+        // Draw Logo
+        SpriteBatch.Draw(_logo, Vector2.Zero, Color.White);
+
+        // End sprite batch when finished.
+        SpriteBatch.End();
 
         base.Draw(gameTime);
     }

@@ -1,0 +1,13 @@
+D:\Development\Test-Apps\Test-App2\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.deps.json
+D:\Development\Test-Apps\Test-App2\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.dll
+D:\Development\Test-Apps\Test-App2\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.pdb
+D:\Development\Test-Apps\Test-App2\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.csproj.AssemblyReference.cache
+D:\Development\Test-Apps\Test-App2\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Test-Apps\Test-App2\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.AssemblyInfoInputs.cache
+D:\Development\Test-Apps\Test-App2\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.AssemblyInfo.cs
+D:\Development\Test-Apps\Test-App2\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.csproj.CoreCompileInputs.cache
+D:\Development\Test-Apps\Test-App2\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.sourcelink.json
+D:\Development\Test-Apps\Test-App2\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.dll
+D:\Development\Test-Apps\Test-App2\MonoGameLibrary\obj\Debug\net9.0\refint\MonoGameLibrary.dll
+D:\Development\Test-Apps\Test-App2\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.pdb
+D:\Development\Test-Apps\Test-App2\MonoGameLibrary\obj\Debug\net9.0\ref\MonoGameLibrary.dll
