@@ -1,0 +1,14 @@
+C:\Users\francisco.moll-serra\OneDrive - PlayCore\Documents\fams_misc\DEVELOPMENT\Test-Apps\Test-App1\bin\Debug\net10.0\Test-App1.exe
+C:\Users\francisco.moll-serra\OneDrive - PlayCore\Documents\fams_misc\DEVELOPMENT\Test-Apps\Test-App1\bin\Debug\net10.0\Test-App1.deps.json
+C:\Users\francisco.moll-serra\OneDrive - PlayCore\Documents\fams_misc\DEVELOPMENT\Test-Apps\Test-App1\bin\Debug\net10.0\Test-App1.runtimeconfig.json
+C:\Users\francisco.moll-serra\OneDrive - PlayCore\Documents\fams_misc\DEVELOPMENT\Test-Apps\Test-App1\bin\Debug\net10.0\Test-App1.dll
+C:\Users\francisco.moll-serra\OneDrive - PlayCore\Documents\fams_misc\DEVELOPMENT\Test-Apps\Test-App1\bin\Debug\net10.0\Test-App1.pdb
+C:\Users\francisco.moll-serra\OneDrive - PlayCore\Documents\fams_misc\DEVELOPMENT\Test-Apps\Test-App1\obj\Debug\net10.0\Test-App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francisco.moll-serra\OneDrive - PlayCore\Documents\fams_misc\DEVELOPMENT\Test-Apps\Test-App1\obj\Debug\net10.0\Test-App1.AssemblyInfoInputs.cache
+C:\Users\francisco.moll-serra\OneDrive - PlayCore\Documents\fams_misc\DEVELOPMENT\Test-Apps\Test-App1\obj\Debug\net10.0\Test-App1.AssemblyInfo.cs
+C:\Users\francisco.moll-serra\OneDrive - PlayCore\Documents\fams_misc\DEVELOPMENT\Test-Apps\Test-App1\obj\Debug\net10.0\Test-App1.csproj.CoreCompileInputs.cache
+C:\Users\francisco.moll-serra\OneDrive - PlayCore\Documents\fams_misc\DEVELOPMENT\Test-Apps\Test-App1\obj\Debug\net10.0\Test-App1.dll
+C:\Users\francisco.moll-serra\OneDrive - PlayCore\Documents\fams_misc\DEVELOPMENT\Test-Apps\Test-App1\obj\Debug\net10.0\refint\Test-App1.dll
+C:\Users\francisco.moll-serra\OneDrive - PlayCore\Documents\fams_misc\DEVELOPMENT\Test-Apps\Test-App1\obj\Debug\net10.0\Test-App1.pdb
+C:\Users\francisco.moll-serra\OneDrive - PlayCore\Documents\fams_misc\DEVELOPMENT\Test-Apps\Test-App1\obj\Debug\net10.0\Test-App1.genruntimeconfig.cache
+C:\Users\francisco.moll-serra\OneDrive - PlayCore\Documents\fams_misc\DEVELOPMENT\Test-Apps\Test-App1\obj\Debug\net10.0\ref\Test-App1.dll
